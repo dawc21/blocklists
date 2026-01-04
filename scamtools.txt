@@ -1,4 +1,3 @@
-*.whatsapp.com
 *.whatsapp.net
 *.telegram.org
 *.t.me
@@ -47,3 +46,4 @@
 *.hushed.com
 *.voice.google.com
 *.teams.microsoft.com
+*.whatsapp.com
