@@ -1,98 +1,98 @@
-! =====================================================
-! Scammer Communication Platforms – DNS Blocklist
-! Format: AdGuard / uBlock compatible
-! Purpose: Block scammer communication channels
-! =====================================================
+# ==============================
+# High-risk scam communication tools
+# Format: Unbound DNSBL (domains)
+# ==============================
 
-! WhatsApp
-||whatsapp.com^
-||whatsapp.net^
+# WhatsApp
+whatsapp.com
+whatsapp.net
+web.whatsapp.com
 
-! Telegram
-||telegram.org^
-||t.me^
-||telegram.me^
-||telegramcdn.com^
+# Telegram
+telegram.org
+t.me
+telegram.me
+telegramcdn.com
 
-! Facebook / Messenger / Instagram
-||facebook.com^
-||fb.com^
-||fbcdn.net^
-||messenger.com^
-||instagram.com^
-||cdninstagram.com^
+# Facebook / Messenger / Instagram
+facebook.com
+fb.com
+fbcdn.net
+messenger.com
+instagram.com
+cdninstagram.com
 
-! Signal
-||signal.org^
-||signal.me^
+# Signal
+signal.org
+signal.me
 
-! Skype
-||skype.com^
-||skypeassets.com^
+# Skype
+skype.com
+skypeassets.com
 
-! Zoom
-||zoom.us^
-||zoom.com^
-||zoomcdn.net^
+# Zoom
+zoom.us
+zoom.com
+zoomcdn.net
 
-! Google Chat / Meet (impersonation scams)
-||chat.google.com^
-||meet.google.com^
+# Google Chat / Meet
+chat.google.com
+meet.google.com
 
-! Discord
-||discord.com^
-||discord.gg^
-||discordapp.com^
-||discordcdn.com^
+# Discord
+discord.com
+discord.gg
+discordapp.com
+discordcdn.com
 
-! Snapchat
-||snapchat.com^
-||sc-cdn.net^
+# Snapchat
+snapchat.com
+sc-cdn.net
 
-! WeChat
-||wechat.com^
-||weixin.qq.com^
+# WeChat
+wechat.com
+weixin.qq.com
 
-! Viber
-||viber.com^
-||viber-cdn.com^
+# Viber
+viber.com
+viber-cdn.com
 
-! LINE
-||line.me^
-||line-apps.com^
-||line-scdn.net^
+# LINE
+line.me
+line-apps.com
+line-scdn.net
 
-! KakaoTalk
-||kakao.com^
-||kakaocdn.net^
+# KakaoTalk
+kakao.com
+kakaocdn.net
 
-! Zangi
-||zangi.com^
-||zangi.me^
+# Zangi
+zangi.com
+zangi.me
 
-! TextNow / Burner numbers
-||textnow.com^
-||textnow.me^
+# TextNow (burner numbers)
+textnow.com
+textnow.me
 
-! Session (privacy-focused)
-||getsession.org^
+# Session (privacy-focused)
+getsession.org
 
-! Wire
-||wire.com^
-||wireapp.io^
+# Wire
+wire.com
+wireapp.io
 
-! Threema
-||threema.ch^
+# Threema
+threema.ch
 
-! IMO
-||imo.im^
-||imo.net^
+# IMO
+imo.im
+imo.net
 
-! Hushed (burner numbers)
-||hushed.com^
+# Hushed (burner numbers)
+hushed.com
 
-! Google Voice (scam follow-up channel)
-||voice.google.com^
+# Google Voice
+voice.google.com
 
-! Microsoft Teams (impersonation scams)
-||teams.microsoft.com^
+# Microsoft Teams
+teams.microsoft.com
