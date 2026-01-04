@@ -1,98 +1,50 @@
-# ==============================
-# High-risk scam communication tools
-# Format: Unbound DNSBL (domains)
-# ==============================
-
-# WhatsApp
 whatsapp.com
 whatsapp.net
 web.whatsapp.com
-
-# Telegram
 telegram.org
 t.me
 telegram.me
 telegramcdn.com
-
-# Facebook / Messenger / Instagram
 facebook.com
 fb.com
 fbcdn.net
 messenger.com
 instagram.com
 cdninstagram.com
-
-# Signal
 signal.org
 signal.me
-
-# Skype
 skype.com
 skypeassets.com
-
-# Zoom
 zoom.us
 zoom.com
 zoomcdn.net
-
-# Google Chat / Meet
 chat.google.com
 meet.google.com
-
-# Discord
 discord.com
 discord.gg
 discordapp.com
 discordcdn.com
-
-# Snapchat
 snapchat.com
 sc-cdn.net
-
-# WeChat
 wechat.com
 weixin.qq.com
-
-# Viber
 viber.com
 viber-cdn.com
-
-# LINE
 line.me
 line-apps.com
 line-scdn.net
-
-# KakaoTalk
 kakao.com
 kakaocdn.net
-
-# Zangi
 zangi.com
 zangi.me
-
-# TextNow (burner numbers)
 textnow.com
 textnow.me
-
-# Session (privacy-focused)
 getsession.org
-
-# Wire
 wire.com
 wireapp.io
-
-# Threema
 threema.ch
-
-# IMO
 imo.im
 imo.net
-
-# Hushed (burner numbers)
 hushed.com
-
-# Google Voice
 voice.google.com
-
-# Microsoft Teams
 teams.microsoft.com
