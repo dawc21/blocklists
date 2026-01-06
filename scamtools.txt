@@ -47,3 +47,4 @@
 *.voice.google.com
 *.teams.microsoft.com
 *.whatsapp.com
+*.snapchat.com
