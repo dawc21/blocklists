@@ -47,4 +47,4 @@
 *.voice.google.com
 *.teams.microsoft.com
 *.whatsapp.com
-*.pintrest.com
+*.pinterest.com
