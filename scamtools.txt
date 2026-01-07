@@ -48,3 +48,4 @@
 *.teams.microsoft.com
 *.whatsapp.com
 *.pinterest.com
+*.pornhub.com
